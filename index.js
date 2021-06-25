@@ -39,7 +39,7 @@ const vcard = 'BEGIN:VCARD\n'
             + 'VERSION:3.0\n' 
             + 'FN:meu criador\n' // Seu nome
             + 'ORG:Private ofc;\n' // Nome do bot
-            + 'TEL;type=CELL;type=VOICE;waid=552798522393:+55 27 9852-2393\n' //Seu número Whatsapp
+            + 'TEL;type=CELL;type=VOICE;waid=556196234501:+55 27 9852-2393\n' //Seu número Whatsapp
             + 'END:VCARD'
 prefix = setting.prefix
 blocked = []
